@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+  border: transparent;
+  background-color: $colour-2;
+  padding: 2rem 3rem;
+
+  &__title {
+    font-weight: 600;
+    color: white;
+    margin-bottom: 0 !important;
+    line-height: 1.5;
+  }
+}
